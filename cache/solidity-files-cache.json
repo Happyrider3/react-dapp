@@ -74,8 +74,8 @@
       ]
     },
     "D:\\Project\\Developing project\\20220530~\\react-dapp\\contracts\\Token.sol": {
-      "lastModificationDate": 1654045250242,
-      "contentHash": "a9e9ad3ea0e2dcedef42171f464ee57c",
+      "lastModificationDate": 1654057413297,
+      "contentHash": "a10a4ae6df3aebabee1779168335c47a",
       "sourceName": "contracts/Token.sol",
       "solcConfig": {
         "version": "0.8.4",

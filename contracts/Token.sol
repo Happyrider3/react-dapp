@@ -6,7 +6,7 @@ import "hardhat/console.sol";
 contract Token {
   string public name = "Nader Dabit Token";
   string public symbol = "NDT";
-  uint public totalSupply = 1000000;
+  uint public totalSupply = 100000000;
   mapping(address => uint) balances;
 
   constructor() {
